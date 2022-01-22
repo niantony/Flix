@@ -13,6 +13,7 @@
 		09DD6A072798BD220042A4B1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09DD6A052798BD220042A4B1 /* Main.storyboard */; };
 		09DD6A092798BD230042A4B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 09DD6A082798BD230042A4B1 /* Assets.xcassets */; };
 		09DD6A0C2798BD230042A4B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 09DD6A0A2798BD230042A4B1 /* LaunchScreen.storyboard */; };
+		09F922CD279B9D2200E00270 /* MovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 09F922CC279B9D2200E00270 /* MovieCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		09DD6A082798BD230042A4B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		09DD6A0B2798BD230042A4B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		09DD6A0D2798BD230042A4B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		09F922CC279B9D2200E00270 /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				09DD6A012798BD220042A4B1 /* SceneDelegate.swift */,
 				09DD6A032798BD220042A4B1 /* ViewController.swift */,
 				09DD6A052798BD220042A4B1 /* Main.storyboard */,
+				09F922CC279B9D2200E00270 /* MovieCell.swift */,
 				09DD6A082798BD230042A4B1 /* Assets.xcassets */,
 				09DD6A0A2798BD230042A4B1 /* LaunchScreen.storyboard */,
 				09DD6A0D2798BD230042A4B1 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				09DD6A042798BD220042A4B1 /* ViewController.swift in Sources */,
 				09DD6A002798BD220042A4B1 /* AppDelegate.swift in Sources */,
+				09F922CD279B9D2200E00270 /* MovieCell.swift in Sources */,
 				09DD6A022798BD220042A4B1 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
